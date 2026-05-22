@@ -14,13 +14,13 @@
 
 Kami adalah komunitas yang dimulai oleh dua orang — **Kak Jalu** dan **Bu Dewi** (sapaan akrab: Kak J dan BuDhe) — yang awalnya sama-sama aktif sebagai mahasiswa di dunia riset, penelitian, dan bimbingan belajar.
 
-Aktivitas kami beragam: dari riset dan konsultasi penelitian, membimbing les private untuk anak SD sampai SMA/SMK, sampai kegiatan kepramukaan dan outdoor. Dari keragaman itu, satu kebutuhan terus muncul: anak-anak Indonesia butuh tempat belajar sains yang tidak bikin bosan, tidak mahal, dan tidak elitis.
+Aktivitas mereka beragam: dari riset dan konsultasi penelitian, membimbing les private untuk anak SD sampai SMA/SMK, sampai kegiatan kepramukaan dan outdoor. Dari keragaman itu, satu kebutuhan terus muncul: anak-anak Indonesia butuh tempat belajar sains yang tidak bikin bosan, tidak mahal, dan tidak elitis.
 
 Dari situlah Klub Fisika Indonesia tumbuh — bukan sebagai lembaga formal, tapi sebagai ruang belajar bersama.
 
 ---
 
-## Apa yang Kami Bangun
+## Platform yang Kami Bangun
 
 ### index.klubfisika.or.id — Indeks Karya Ilmiah K-12
 
@@ -28,39 +28,33 @@ Satu masalah yang kami temui berulang kali: karya ilmiah siswa hilang begitu lom
 
 Kami membuat platform indeksasi untuk jenjang SD, SMP, SMA/SMK. Tujuannya sederhana: karya ilmiah siswa seharusnya punya rumah digital yang permanen. Guru bisa verifikasi. Peer bisa komentar. Siapa pun bisa lihat dan menghargai karya tersebut.
 
-Ini bukan replacement dari SINTA atau Google Scholar — itu untuk akademisi. Kami fokus di bawah itu, di jenjang yang selama ini tidak ditangani satupun platform serius di Indonesia.
+Ini bukan replacement dari SINTA atau Google Scholar — itu untuk akademisi. Kami fokus di jenjang yang selama ini tidak ditangani satupun platform serius di Indonesia.
 
 ### community.klubfisika.or.id — Ruang Diskusi dan Proyek
 
-Forum diskusi dengan sistem reputasi Cendol dan Bata — terinspirasi dari budaya forum Indonesia yang sudah terbukti efektif membedakan komentar berkualitas dari yang tidak. Satu endorse dari anggota berpengalaman berbobot lebih besar dari seratus endorse dari akun baru.
-
-Ini bukan tiruan Kaskus. Ini adaptasi untuk konteks sains dan teknologi, di mana pengalaman dan kedalaman pemahaman benar-benar matter.
+Forum diskusi untuk sains dan teknologi. Satu ruang di mana siapapun bisa bertanya, share proyek, dan belajar bareng — tanpa memandang level kemampuan.
 
 ### klubfisika.github.io — Website dan Konten
 
-Website utama: artikel fisika dalam Bahasa Indonesia, informasi kompetisi, dan apapun yang berguna untuk komunitas.
+Artikel fisika dalam Bahasa Indonesia, informasi kompetisi, dan apapun yang berguna untuk komunitas.
 
 ---
 
 ## Kenapa Fisika?
 
-Pilihan "fisika" sebagai titik awal bukan kebetulan.
-
 Fisika adalah fondasi dari hampir semua disiplin sains modern. Dan yang lebih penting: fisika melatih cara berpikir yang tepat — memahami data, menantang asumsi, merancang eksperimen. Skill yang sama berguna di manapun.
 
-Dari fisika, komunitas ini bisa dan sudah berkembang ke disiplin lain. Tapi tetap kami pakai nama "Klub Fisika" karena itu rumah awal kami.
+Dari fisika, komunitas ini bisa dan sudah berkembang ke disiplin lain. Tapi tetap pakai nama "Klub Fisika" karena itu rumah awal kami.
 
 ---
 
-## Peran Kami di OpenRiset
+## OpenRiset
 
-Ketika kami membangun platform indeksasi karya ilmiah, dari awal kami sadar: infrastruktur ini terlalu valuable kalau hanya dipakai komunitas fisika.
+Ketika kami membangun platform indeksasi karya ilmiah, kami sadar: infrastruktur ini terlalu valuable kalau hanya dipakai komunitas fisika.
 
-Kami inisiasi **OpenRiset** — organisasi terbuka yang bisa dipakai oleh komunitas-komunitas lain. Sebuah yayasan pendidikan, komunitas matematika, atau siapapun bisa membangun di atas infrastruktur yang sama.
+Kami inisiasi **OpenRiset** — organisasi terbuka yang bisa dipakai oleh komunitas-komunitas lain. Siapa pun bisa membangun di atas infrastruktur yang sama.
 
-Kami di KF13 bukan pemilik OpenRiset. Kami inisiator dan primary maintainer saat ini. Tapi OpenRiset dirancang agar bisa berjalan tanpa KF13 — komunitas yang lebih besar dari kami suatu hari nanti bisa dan seharusnya bisa mengambil peran pengelolaan.
-
-Ini bagian dari cara kami bekerja: bangun sesuatu yang bisa berlanjut bahkan kalau kami tidak bisa meluangkan waktu lagi.
+Kami di KF13 bukan pemilik OpenRiset. Kami inisiator dan primary maintainer saat ini. Tapi OpenRiset dirancang agar bisa berjalan tanpa KF13 — karena komunitas yang lebih besar dari kami suatu hari nanti bisa dan seharusnya bisa mengambil peran pengelolaan.
 
 ---
 
