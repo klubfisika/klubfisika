@@ -2,9 +2,9 @@
 
 # Klub Fisika Indonesia
 
-**Dari komunitas fisika, untuk siapapun yang ingin belajar**
+**Dari komunitas kecil di tahun 2013, untuk siapapun yang ingin belajar sains**
 
-*Berdiri sejak 2021 — konten, diskusi, dan proyek sains terbuka untuk Indonesia*
+*Berdiri tahun 2013 — komunitas pembelajaran fisika terbuka untuk Indonesia*
 
 </div>
 
@@ -12,13 +12,11 @@
 
 ## Siapa Kami
 
-Kami adalah sekelompok orang di Indonesia yang percaya bahwa belajar fisika — dan sains secara umum — tidak boleh bergantung pada apakah kamu punya akses ke sekolah mahal atau mentor yang terkenal.
+Kami adalah komunitas yang dimulai oleh dua orang — **Kak Jalu** dan **Bu Dewi** (sapaan akrab: Kak J dan BuDhe) — yang awalnya sama-sama aktif sebagai mahasiswa di dunia riset, penelitian, dan bimbingan belajar.
 
-Klub Fisika Indonesia dimulai dari chat grup sederhana di Telegram. Dari sanalah kami saling berbagi soal mekanika, termodinamika, dan problem olimpiade. Tanpa memandang level — ada siswa SMP yang belum tahu vektor, ada mahasiswa yang udah lulus tapi masih kepo soal relativitas. Semua ngobrol di satu tempat.
+Aktivitas kami beragam: dari riset dan konsultasi penelitian, membimbing les private untuk anak SD sampai SMA/SMK, sampai kegiatan kepramukaan dan outdoor. Dari keragaman itu, satu kebutuhan terus muncul: anak-anak Indonesia butuh tempat belajar sains yang tidak bikin bosan, tidak mahal, dan tidak elitis.
 
-Dari chat grup itu, tumbuh kebutuhan untuk hal yang lebih permanen dari pesan Telegram. Maka kami buat website. Kemudian platform diskusi. Kemudian platform indeksasi riset. Tapi semua bermula dari hal yang sama: **komunitas orang-orang Indonesia yang penasaran soal sains.**
-
-Kami tidak berafiliasi dengan universitas manapun. Kami tidak dijual ke perusahaan. Kami organisasi non-profit yang beroperasi di bawah naungan Yayasan Karya Fisika, dan semua kerjaan sukarelawan ini dilakukan di waktu luang.
+Dari situlah Klub Fisika Indonesia tumbuh — bukan sebagai lembaga formal, tapi sebagai ruang belajar bersama.
 
 ---
 
@@ -26,75 +24,59 @@ Kami tidak berafiliasi dengan universitas manapun. Kami tidak dijual ke perusaha
 
 ### index.klubfisika.or.id — Indeks Karya Ilmiah K-12
 
-Satu masalah yang terus berulang: karya ilmiah siswa hilang begitu lomba selesai. Siswa yang bikin riset bagus — bahkan yang menang penghargaan — tidak punya tempat untuk menunjukkan portofolio itu kepada dunia. Tidak ada yang bisa diverifikasi. Tidak ada jejak.
+Satu masalah yang kami temui berulang kali: karya ilmiah siswa hilang begitu lomba selesai. Siswa yang membuat riset bagus, bahkan yang menang penghargaan, tidak punya tempat untuk menunjukkan portofolio itu secara permanen. Tidak ada yang bisa diverifikasi. Tidak ada jejak digital.
 
-Kami bikin platform indeksasi khusus untuk jenjang SD, SMP, SMA/SMK. Tujuannya simpel: karya ilmiah siswa seharusnya punya rumah digital permanen. Guru bisa verifikasi. Peer bisa komentar. Siapa pun bisa lihat dan valorikan karya tersebut.
+Kami membuat platform indeksasi untuk jenjang SD, SMP, SMA/SMK. Tujuannya sederhana: karya ilmiah siswa seharusnya punya rumah digital yang permanen. Guru bisa verifikasi. Peer bisa komentar. Siapa pun bisa lihat dan menghargai karya tersebut.
 
-Platform ini bukan replacement dari SINTA atau Google Scholar. Itu untuk akademisi. Kami fokus di bawah itu — di mana kebanyakan talent Indonesia yang sebenarnya ada, dan di mana tidak ada satupun platform yang serius menangani.
+Ini bukan replacement dari SINTA atau Google Scholar — itu untuk akademisi. Kami fokus di bawah itu, di jenjang yang selama ini tidak ditangani satupun platform serius di Indonesia.
 
 ### community.klubfisika.or.id — Ruang Diskusi dan Proyek
 
-Forum diskusi yang terinspirasi dari budaya internet Indonesia — lengkap dengan sistem reputasi Cendol dan Bata yang mungkin familiar buat yang pernah ngomong di Kaskus. Tapi bukan tiruan Kaskus. Ini ruang untuk diskusi sains dan teknologi, dengan gamifikasi yang sesuai konteks.
+Forum diskusi dengan sistem reputasi Cendol dan Bata — terinspirasi dari budaya forum Indonesia yang sudah terbukti efektif membedakan komentar berkualitas dari yang tidak. Satu endorse dari anggota berpengalaman berbobot lebih besar dari seratus endorse dari akun baru.
 
-Kami percaya budaya internet Indonesia punya karakter unik yang tidak bisa begitu saja di-copy paste dari platform internasional. Sistem endorsement yang berbobot, di mana komentar dari orang berpengalaman benar-benar punya pengaruh — ini yang coba kami bangun di sini.
+Ini bukan tiruan Kaskus. Ini adaptasi untuk konteks sains dan teknologi, di mana pengalaman dan kedalaman pemahaman benar-benar matter.
 
-### klubfisika.github.io — Konten dan Blog
+### klubfisika.github.io — Website dan Konten
 
-Website utama kami. Artikel fisika dalam Bahasa Indonesia — bukan textbook yang kaku, tapi tulisan yang ngobrol seperti orang yang memang suka fisika dan mau ngajak orang lain ikut suka. Ada juga informasi komunitas, lowongan, dan kompetisi.
+Website utama: artikel fisika dalam Bahasa Indonesia, informasi kompetisi, dan apapun yang berguna untuk komunitas.
 
 ---
 
 ## Kenapa Fisika?
 
-Pilihan "fisika" sebagai titik awal bukan arbitrer.
+Pilihan "fisika" sebagai titik awal bukan kebetulan.
 
-Fisika adalah fondasi dari hampir semua disiplin sains modern. Siapa yang bisa belajar quantum computing tanpa pemahaman mekanika kuantum? Siapa yang bisa klaim jadi engineer tanpa mengerti termodinamika? Fisika adalah mata pelajaran yang paling sering "dibenci" di sekolah, tapi juga paling sering memicu rasa penasaran.
+Fisika adalah fondasi dari hampir semua disiplin sains modern. Dan yang lebih penting: fisika melatih cara berpikir yang tepat — memahami data, menantang asumsi, merancang eksperimen. Skill yang sama berguna di manapun.
 
-Dari fisika, kami percaya komunitas bisa berkembang ke disiplin lain. Fisika membiasakan cara berpikir yang tepat — memahami data, menantang asumsi, merancang eksperimen. Skill yang sama berguna di manapun.
-
----
-
-## Cendol dan Bata
-
-Sistem reputasi kami terinspirasi dari Kaskus — platform forum Indonesia yang punya sistem voting berbobot yang sangat efektif membedakan komentar yang berkualitas dari yang tidak.
-
-Kenapa tidak pakai sistem like Twitter atau upvote Reddit yang sederhana? Karena satu endorse dari orang yang berpengalaman jauh lebih berharga dari seratus endorse dari akun baru. Cendol dan Bata mencerminkan itu: endorsement dari anggota dengan rank lebih tinggi berbobot lebih besar.
-
-Ini bukan science-fiction. Ini cara komunitas nyata bekerja — ada orang yang dianggap lebih berpengalaman, dan opininya membawa bobot. Kami memformalkan itu dalam sistem.
+Dari fisika, komunitas ini bisa dan sudah berkembang ke disiplin lain. Tapi tetap kami pakai nama "Klub Fisika" karena itu rumah awal kami.
 
 ---
 
 ## Peran Kami di OpenRiset
 
-Ketika kami membangun platform indeksasi karya ilmiah, dari awal kami sadar: infrastruktur ini terlalu valuable untuk hanya jadi punya komunitas fisika saja.
+Ketika kami membangun platform indeksasi karya ilmiah, dari awal kami sadar: infrastruktur ini terlalu valuable kalau hanya dipakai komunitas fisika.
 
-Maka kami inisiasi **OpenRiset** — organisasi terpisah yang bisa dipakai oleh komunitas-komunitas lain di luar fisika. Sebuah yayasan pendidikan bisa pakai. Sebuah komunitas matematika atau biologi bisa pakai. Siapa pun bisa bangun di atas infrastruktur yang sama.
+Kami inisiasi **OpenRiset** — organisasi terbuka yang bisa dipakai oleh komunitas-komunitas lain. Sebuah yayasan pendidikan, komunitas matematika, atau siapapun bisa membangun di atas infrastruktur yang sama.
 
-Kami di KF13 bukan "pemilik" OpenRiset. Kami inisiator, dan saat ini juga primary maintainer. Tapi OpenRiset dirancang untuk bisa berjalan tanpa KF13 — karena komunitas yang lebih besar dari kami suatu hari nanti bisa dan seharusnya bisa mengambil peran pengelolaan.
+Kami di KF13 bukan pemilik OpenRiset. Kami inisiator dan primary maintainer saat ini. Tapi OpenRiset dirancang agar bisa berjalan tanpa KF13 — komunitas yang lebih besar dari kami suatu hari nanti bisa dan seharusnya bisa mengambil peran pengelolaan.
 
-Ini adalah bagian dari cara kami bekerja: bangun sesuatu yang bisa berlanjut bahkan kalau kami tidak bisa lagi meluangkan waktu.
+Ini bagian dari cara kami bekerja: bangun sesuatu yang bisa berlanjut bahkan kalau kami tidak bisa meluangkan waktu lagi.
 
 ---
 
-## Repositori Kami
+## Repositori
 
 | Repo | Isi |
 |---|---|
-| [klubfisika.github.io](https://github.com/klubfisika/klubfisika.github.io) | Website utama — artikel, blog, informasi komunitas |
+| [klubfisika.github.io](https://github.com/klubfisika/klubfisika.github.io) | Website utama — artikel, informasi komunitas |
 | [index](https://github.com/klubfisika/index) | Platform indeksasi karya ilmiah K-12 |
-| [platform](https://github.com/klubfisika/platform) | Platform sosial untuk diskusi dan proyek komunitas |
-| [klubfisika](https://github.com/klubfisika/klubfisika) | Profil GitHub ini |
-
-Untuk roadmap, governance, dan cara berkontribusi, silakan lihat di repositori masing-masing. Kami tidak menggabungkan semuanya jadi satu monorepo karena tiap proyek punya lifecycle yang berbeda.
+| [platform](https://github.com/klubfisika/platform) | Platform sosial untuk diskusi dan proyek |
 
 ---
 
 ## Kontak
 
-Kami tidak punya tim dedicated untuk membalas pesan. Tapi kami baca semuanya.
-
 - **Instagram**: [@klubfisika13](https://instagram.com/klubfisika13)
-- **LinkedIn**: [in/klubfisika13](https://linkedin.com/in/klubfisika13)
 - **GitHub**: [github.com/klubfisika](https://github.com/klubfisika)
 - **Email**: kf.teknis@gmail.com
 
@@ -102,6 +84,6 @@ Kami tidak punya tim dedicated untuk membalas pesan. Tapi kami baca semuanya.
 
 <div align="center">
 
-*Dari chat grup Telegram ke infrastruktur saintifik terbuka — semua dimulai dari orang-orang yang penasaran*
+*Berdiri 2013 · Dimulai dari dua orang · Tumbuh karena komunitas*
 
 </div>
